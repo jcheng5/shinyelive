@@ -64,7 +64,7 @@ app_ui = ui.page_fluid(
 
         The app above simulates this experience by setting the sample size (i.e., number of people) and number of iterations. Where on each iteration, we draw a random number between -1 and 1 (can choose between float integer steps with the `Step Type` drop-down). The plot above shows the cumulative sum of each experiment across each step of the experience. You can notice how the distribution becomes more Gaussian as the number of steps increases.
 
-        Code available [here](https://github.com/RamiKrispin/shinyelive).
+        Code available <a href="https://github.com/RamiKrispin/shinyelive" target="_top">here</a>.
 
         """
     ),
